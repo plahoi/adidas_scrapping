@@ -1,0 +1,16 @@
+aiohttp==3.3.2
+async-timeout==3.0.0
+attrs==18.1.0
+beautifulsoup4==4.6.1
+bs4==0.0.1
+certifi==2018.4.16
+chardet==3.0.4
+idna==2.7
+idna-ssl==1.1.0
+multidict==4.3.1
+requests==2.19.1
+selenium==3.13.0
+tqdm==4.24.0
+urllib3==1.23
+xvfbwrapper==0.2.9
+yarl==1.2.6
